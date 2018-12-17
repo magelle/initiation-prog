@@ -1,0 +1,12 @@
+td {
+    width: 1em;
+    height: 1em;
+}
+
+td.alive {
+    background-color: grey;
+}
+
+td.dead {
+    background-color: lightgray;
+}
